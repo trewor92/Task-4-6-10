@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IQueryableTask", "IQueryableTask\IQueryableTask.csproj", "{00DFFC5C-71B0-4F9E-9F28-4B4CFD2E3C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQueryableTask.Test", "IQueryableTask.Test\IQueryableTask.Test.csproj", "{22BDE97D-4150-46A6-8CBD-F64EDDA1D264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DFFC5C-71B0-4F9E-9F28-4B4CFD2E3C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DFFC5C-71B0-4F9E-9F28-4B4CFD2E3C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DFFC5C-71B0-4F9E-9F28-4B4CFD2E3C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DFFC5C-71B0-4F9E-9F28-4B4CFD2E3C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BDE97D-4150-46A6-8CBD-F64EDDA1D264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BDE97D-4150-46A6-8CBD-F64EDDA1D264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BDE97D-4150-46A6-8CBD-F64EDDA1D264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BDE97D-4150-46A6-8CBD-F64EDDA1D264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEAEDA1-C6B2-4809-B841-28E2AA7F4F09}
+	EndGlobalSection
+EndGlobal
